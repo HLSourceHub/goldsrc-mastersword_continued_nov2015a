@@ -1,0 +1,1 @@
+hl.exe -game msc -num_edicts 2048 -console
